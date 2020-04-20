@@ -50,4 +50,13 @@ pip install --upgrade --force-reinstall numpy
 `
 
 * agent playing FrozenLake8x8 using Q-Learning until done per episode
+
+## REINFORCEMENT LEARNING (DQN) TUTORIAL
+
+* https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
 `
+05-getting-started-CartPole-v0-dqn.py
+`
+
+* agent playing CartPole using Deep Q-Learning
