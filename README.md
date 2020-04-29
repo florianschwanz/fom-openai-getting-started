@@ -60,3 +60,9 @@ pip install --upgrade --force-reinstall numpy
 `
 
 * agent playing CartPole using Deep Q-Learning
+
+`
+06-getting-started-SpaceInvaders-v0-dqn.py
+`
+
+* agent playing SpaceInvaders using Deep Q-Learning
